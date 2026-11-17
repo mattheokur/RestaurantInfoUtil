@@ -1,5 +1,6 @@
 # RestaurantInfoUtil
 ![](https://img.shields.io/github/stars/mattheokur/RestaurantInfoUtil) ![](https://img.shields.io/github/forks/mattheokur/RestaurantInfoUtil) ![](https://img.shields.io/github/tag/mattheokur/RestaurantInfoUtil) ![](https://img.shields.io/github/release/mattheokur/RestaurantInfoUtil) ![](https://img.shields.io/github/issues/mattheokur/RestaurantInfoUtil)
+
 A CLI-based program to organize, export, and find restaurant data.
 
 ### Features
